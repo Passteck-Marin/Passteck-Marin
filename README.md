@@ -44,7 +44,7 @@ As part of my DWWM certification, I am honing my skills to become a proficient j
 
 ## 📈 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Passteck&theme=nightowl)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Passteck-Marin&theme=nightowl)
 
 ---
 
